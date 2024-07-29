@@ -1,0 +1,10 @@
+Good morning, It’s my pleasure meeting you sir . I'm Jayaprakash, and I'm genuinely grateful to be here, interviewing at Autodesk. The prospect of contributing to real-world projects, collaborating with global teams, and being part of a culture centered among a growth mindset deeply aligns with my own aspirations.
+
+As a pre-final year student pursuing Bachelor of Engineering in Computer Science from Chennai Institute of Technology, where I am maintaining a CGPA of 8.7 out of 10, I have cultivated a strong foundation in software engineering principles and a diverse skill set in the area of full stack development where I am familiar and have experience with Frontend technologies such as React JS, FIGMA, MUI, Redux, backend technologies such as Node JS, Rest API, MYSQL. I have done an internship as a Research and product intern during my coursework. Which helped  not only improving my technical skills but also exposed me to real world projects  and instilled in me the importance of efficient teamwork for successful project delivery.
+
+Beyond my academic journey, I've actively engaged in various technical projects that showcase my problem-solving abilities. I have done three projects in which one notable project that is focused on solving a problem faced by student community of large scale colleges, on getting votes, opinions and suggestions in decision making system, I have encountered this by providing an scalable and democratic polling application by ensuring anamolity, confedentiality of user in voting system.
+
+In addition to my academic and project experiences, I am passionate about competitive programming.
+Notably I secured the 697th rank in codecrush by coderush event by newtonschool in which I competed with over 1 lakh participants. I am possessing a rating of 1060 in codeforces and earned 2 stars in codechef.
+
+This is brief about myself sir. I am happy to answer if you have any further questions.
